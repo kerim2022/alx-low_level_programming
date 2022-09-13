@@ -5,3 +5,4 @@ a function that prints 10 times the alphabet, in lowercase, followed by a new li
 4. a function that checks for alphabetic character
 5.  a function that prints the sign of a number
 6.  a function that computes the absolute value of an integer
+7.  a function that prints the last digit of a number
