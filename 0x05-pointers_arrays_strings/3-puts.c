@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
  * _puts - a function that prints a string
  * @str: string input
@@ -18,10 +19,10 @@ void _puts(char *str)
 
 	{
 
-		_putchar(str[i]);
+		putchar(str[i]);
 
 	}
 
-	_putchar('\n');
+	putchar('\n');
 
 }
