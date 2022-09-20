@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * print_rev - this characters in reverse.
  * @s: this is a parameter to change.
@@ -23,12 +23,12 @@ void print_rev(char *s)
 
 	{
 
-		_putchar(s[i]);
+		putchar(s[i]);
 
 		i--;
 
 	}
 
-	_putchar('\n');
+	putchar('\n');
 
 }
