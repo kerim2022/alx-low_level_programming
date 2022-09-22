@@ -5,3 +5,4 @@ Write a function that compares two strings
 Write a function that changes all lowercase letters of a string to uppercase
 Write a function that capitalizes all words of a string.
 Write a function that encodes a string into 1337
+Write a function that encodes a string using rot13.
