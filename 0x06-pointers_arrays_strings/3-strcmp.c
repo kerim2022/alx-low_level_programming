@@ -10,11 +10,8 @@
   */
 
 int _strcmp(char *s1, char *s2)
-
 {
-
 	int a = 0, b = 0, c = 0, r = 0, lim;
-
 
 	while (s1[a])
 	{
